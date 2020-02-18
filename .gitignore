@@ -1,0 +1,7 @@
+.DS_Store
+TODO
+**/node_modules
+**/build
+**/css
+**/extra
+.git-prem
