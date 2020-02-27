@@ -24,6 +24,9 @@ K8Dash is the easiest way to manage your Kubernetes cluster. Why?
 ## Click the video below to see K8Dash in action
 [![K8Dash - Kubernetes Dashboard](https://raw.githubusercontent.com/herbrandson/k8dash/master/docs/videoThumbnail.png)](http://www.youtube.com/watch?v=u-1jGAhAHAM "K8Dash - Kubernetes Dashboard")
 
+## Click the Images below to see K8Dash in action
+
+[K8Dash](docs/images)
 
 ## Prerequisites
 + A running Kubernetes cluster
